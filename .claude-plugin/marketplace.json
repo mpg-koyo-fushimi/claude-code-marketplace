@@ -10,15 +10,12 @@
   "plugins": [
     {
       "name": "hello-world",
-      "source": "./plugins/hello-world",
-      "description": "Output 'Hello, World!'",
-      "version": "0.0.1",
-      "author": {
-        "name": "fussy113"
-      },
-      "category": "example",
-      "license": "MIT",
-      "strict": false
+      "source": "./plugins/hello-world"
+    },
+    {
+      "name": "github",
+      "source": "./plugins/github"
     }
-  ]
+  ],
+  "strict": true
 }
