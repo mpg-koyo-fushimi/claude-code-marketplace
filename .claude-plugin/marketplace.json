@@ -17,10 +17,8 @@
         "name": "fussy113"
       },
       "category": "example",
-      "strict": false,
-      "commands": [
-        "./commands/hello.md"
-      ]
+      "license": "MIT",
+      "strict": false
     }
   ]
 }
