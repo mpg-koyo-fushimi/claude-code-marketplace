@@ -10,6 +10,6 @@
   "keywords": ["hello-world", "example"],
   "license": "MIT",
   "commands": [
-    "./commands/hello.md"
+    "./commands/hello-world.md"
   ]
 }
