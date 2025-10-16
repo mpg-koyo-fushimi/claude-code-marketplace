@@ -7,7 +7,6 @@
   },
   "homepage": "https://github.com/fussy113",
   "repository": "https://github.com/fussy113/claude-code-marketplace",
-  "category": "example",
   "keywords": ["hello-world", "example"],
   "license": "MIT",
   "commands": [
