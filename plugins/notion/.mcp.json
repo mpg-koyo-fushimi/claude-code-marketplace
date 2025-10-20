@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notion-remote": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    }
+  }
+}

@@ -15,6 +15,10 @@
     {
       "name": "github",
       "source": "./plugins/github"
+    },
+    {
+      "name": "notion",
+      "source": "./plugins/notion"
     }
   ],
   "strict": true
