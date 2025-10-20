@@ -23,6 +23,10 @@
     {
       "name": "context7",
       "source": "./plugins/context7"
+    },
+    {
+      "name": "notion",
+      "source": "./plugins/notion"
     }
   ],
   "strict": true

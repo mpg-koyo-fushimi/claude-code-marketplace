@@ -1,0 +1,16 @@
+{
+  "name": "notion",
+  "description": "Develop using Notion",
+  "version": "0.0.1",
+  "author": {
+    "name": "mpg-koyo-fushimi"
+  },
+  "homepage": "https://github.com/mpg-koyo-fushimi",
+  "repository": "https://github.com/mpg-koyo-fushimi/claude-code-marketplace",
+  "keywords": ["notion"],
+  "license": "MIT",
+  "commands": [
+    "./commands/implement-from-ticket.md"
+  ],
+  "mcpServers": "./.mcp.json"
+}
