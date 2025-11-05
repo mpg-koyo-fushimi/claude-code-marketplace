@@ -9,5 +9,8 @@
   "repository": "https://github.com/fussy113/claude-code-marketplace",
   "keywords": ["github"],
   "license": "MIT",
+  "commands": [
+    "./commands/review-pr.md"
+  ],
   "mcpServers": "./.mcp.json"
 }
