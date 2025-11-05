@@ -10,7 +10,8 @@
   "keywords": ["github"],
   "license": "MIT",
   "commands": [
-    "./commands/review-pr.md"
+    "./commands/review-pr.md",
+    "./commands/review-dependabot.md"
   ],
   "mcpServers": "./.mcp.json"
 }
