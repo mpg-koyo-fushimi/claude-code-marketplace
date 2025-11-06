@@ -15,6 +15,10 @@
     {
       "name": "github",
       "source": "./plugins/github"
+    },
+    {
+      "name": "tools-for-mac",
+      "source": "./plugins/tools-for-mac"
     }
   ],
   "strict": true
