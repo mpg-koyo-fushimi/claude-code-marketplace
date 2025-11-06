@@ -1,0 +1,13 @@
+{
+  "name": "context7",
+  "description": "Use context7",
+  "version": "0.0.1",
+  "author": {
+    "name": "fussy113"
+  },
+  "homepage": "https://github.com/fussy113",
+  "repository": "https://github.com/fussy113/claude-code-marketplace",
+  "keywords": ["context7"],
+  "license": "MIT",
+  "mcpServers": "./.mcp.json"
+}
