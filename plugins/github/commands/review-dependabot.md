@@ -5,8 +5,8 @@ DependabotによるPRを依存関係更新の観点から包括的にレビュ�
 ## 実行手順
 
 1. **PR情報の取得**
-   - `gh pr view {PR番号}` を実行して、PRの基本情報を取得
-   - `gh pr diff {PR番号}` を実行して、変更内容の差分を取得
+   - `gh pr view $ARGUMENTS` を実行して、PRの基本情報を取得
+   - `gh pr diff $ARGUMENTS` を実行して、変更内容の差分を取得
    - PRの作成者がdependabotであることを確認
 
 2. **依存関係の更新内容を分析**
