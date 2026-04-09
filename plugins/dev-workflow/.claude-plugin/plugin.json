@@ -1,0 +1,9 @@
+{
+  "name": "dev-workflow",
+  "description": "Development workflow automation skills",
+  "version": "0.1.0",
+  "author": {
+    "name": "fussy113"
+  },
+  "keywords": ["workflow", "testing", "worktree"]
+}
