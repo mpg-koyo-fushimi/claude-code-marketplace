@@ -1,3 +1,9 @@
+---
+name: review-pr
+argument-hint: <pr_number>
+description: 指定されたPRを包括的にレビューする
+---
+
 # GitHub PR レビュー
 
 指定されたPR番号のプルリクエストを包括的にレビューしてください。

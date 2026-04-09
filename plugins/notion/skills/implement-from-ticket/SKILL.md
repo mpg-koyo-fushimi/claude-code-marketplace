@@ -1,12 +1,13 @@
 ---
-argument-hint: [notion_url]
+name: implement-from-ticket
+argument-hint: <notion_url>
 description: タスクチケットに基づき、実装計画を立てて、実装を行う、Notion MCP、GitHub CLIを使用する
 ---
 
 Notion チケットの内容を確認し、タスクの遂行を行なってください。
 タスクは以下の手順で進めてください。
 
-1. notion-fetch $1 を実行し、チケットに記載されている内容を理解する
+1. notion-fetch $ARGUMENTS を実行し、チケットに記載されている内容を理解する
 2. チケットの内容と実装を確認し、実装計画を立てる
 3. develop ブランチにチェックアウトし、pull を行い、最新のリモートの状態を取得する
 4. チケットの内容を元に、適切な命名でブランチを作成、チェックアウトする

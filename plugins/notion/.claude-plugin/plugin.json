@@ -9,8 +9,5 @@
   "repository": "https://github.com/mpg-koyo-fushimi/claude-code-marketplace",
   "keywords": ["notion"],
   "license": "MIT",
-  "commands": [
-    "./commands/implement-from-ticket.md"
-  ],
   "mcpServers": "./.mcp.json"
 }

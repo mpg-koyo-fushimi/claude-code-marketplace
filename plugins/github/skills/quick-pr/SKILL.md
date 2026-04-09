@@ -1,4 +1,5 @@
 ---
+name: quick-pr
 argument-hint: [branch_name (optional)]
 description: 変更内容を元にブランチ作成、コミット、プッシュ、Draft PR作成を一括実行
 ---

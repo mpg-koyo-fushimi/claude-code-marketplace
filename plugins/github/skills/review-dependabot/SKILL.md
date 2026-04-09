@@ -1,3 +1,9 @@
+---
+name: review-dependabot
+argument-hint: <pr_number>
+description: DependabotによるPRを依存関係更新の観点から包括的にレビューする
+---
+
 # Dependabot PR レビュー
 
 DependabotによるPRを依存関係更新の観点から包括的にレビューしてください。
